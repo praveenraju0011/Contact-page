@@ -1,0 +1,30 @@
+.primary_btn {
+  padding: 10px 18px;
+  background-color: black;
+  color: white;
+  width: 220px;
+  height: 44px;
+  border-radius: 5px;
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.outLine {
+  padding: 10px 18px;
+  border: 1px solid black;
+  color: black;
+  font-weight: 600;
+  width: 472px;
+  height: 44px;
+  border-radius: 5px;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  cursor: pointer;
+}
